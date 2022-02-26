@@ -1,0 +1,9 @@
+html { display: flex; justify-content: center; }
+html { align-items: center; height: 100%; }
+html { font: 14pt monospace; }
+pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em 0;
+}
