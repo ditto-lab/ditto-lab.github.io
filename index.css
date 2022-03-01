@@ -7,3 +7,12 @@ pre {
   white-space: pre;
   margin: 1em 0;
 }
+
+.logo {
+  display: block;
+  text-indent: -9999px;
+  width: 100px;
+  background-size: 100px 82px;
+}
+
+body {background-color: #e8e2dc;}
